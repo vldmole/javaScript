@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vldmole/javaScript/issues"
   },
-  "homepage": "https://github.com/vldmole/javaScript#readme"
+  "homepage": "https://github.com/vldmole/javaScript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
