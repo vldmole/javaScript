@@ -1,0 +1,16 @@
+{
+  "name": "facturaeletronica",
+  "version": "1.0.0",
+  "description": "Factura Eletronica",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vilson Luiz Dalle Mole",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xmlbuilder2": "^3.0.2"
+  }
+}
