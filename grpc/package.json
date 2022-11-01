@@ -1,4 +1,5 @@
 {
+  "type": "commonjs",
   "name": "grpc",
   "version": "1.0.0",
   "description": "My first grpc application",
